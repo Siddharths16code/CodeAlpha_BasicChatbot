@@ -44,4 +44,4 @@ Make sure Python is installed on your system.
 Run the file in terminal:
 
 ```bash
-python task3 .py
+python task3.py
